@@ -31,7 +31,7 @@ $csupcoming
 $cspresent
 ```
 ![Screenshot (409)](https://user-images.githubusercontent.com/80933048/129572953-5fc23c29-a059-4577-a1b7-526f96eebd1c.png)
-- $csuser : This Command Is Used To Know The Basic Information of a user. It takes the username as a parameters
+- $csuser : This Command Is Used To Know The Basic Information of a user In Codechef. It takes the username as a parameters
 ```bash
 $csuser user_name
 ```
@@ -46,7 +46,16 @@ $cscountproblem
 $$csproblem user_name
 ```
 ![Screenshot (416)](https://user-images.githubusercontent.com/80933048/129589635-6f6c7b86-cb0b-42a9-95d2-9609acd22dba.png)
-
+- $cfuser : This Command Is Used To Know The Basic Information of a user In CodeForces. It takes the username as a parameters
+```bash
+$cfuserr user_name
+```
+![Screenshot (418)](https://user-images.githubusercontent.com/80933048/129589970-2ffd1524-d7ec-40fb-9ee7-28f3d12d36e2.png)
+- $cfupcoming : This Command Is Used To Know The Upcoming Events With The Starting And End Date Of CodeForces.
+```bash
+$cfupcoming
+```
+![Screenshot (420)](https://user-images.githubusercontent.com/80933048/129590252-ea62f1db-4e2a-4ecc-b1b3-e6dbed3caffa.png)
 
 
 
