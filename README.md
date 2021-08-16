@@ -20,7 +20,12 @@
 - Easy To Track The Current And Upcoming Events On CodeChef And CodeForces
 - Easy To See The Total Problems On CodeChef.
 - Virtual Compiler Of Python And C++.
-
+## How To Use
+- $csupcoming : This Command Is Used To Know The Upcoming Events With The Starting And End Date Of CodeChef
+```bash
+$csupcoming
+```
+![Screenshot (407)](https://user-images.githubusercontent.com/80933048/129571977-8d73b4ce-aea5-4bc1-9f11-796c9113db68.png)
 
 
 
