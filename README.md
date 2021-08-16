@@ -26,6 +26,13 @@
 $csupcoming
 ```
 ![Screenshot (407)](https://user-images.githubusercontent.com/80933048/129571977-8d73b4ce-aea5-4bc1-9f11-796c9113db68.png)
+- $cspresent : This Command Is Used To Know The Present Events With The Starting And End Date Of CodeChef
+```bash
+$cspresent
+```
+![Screenshot (409)](https://user-images.githubusercontent.com/80933048/129572953-5fc23c29-a059-4577-a1b7-526f96eebd1c.png)
+
+
 
 
 
