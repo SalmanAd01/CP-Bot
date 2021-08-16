@@ -57,11 +57,12 @@ $cfupcoming
 ```
 ![Screenshot (420)](https://user-images.githubusercontent.com/80933048/129590252-ea62f1db-4e2a-4ecc-b1b3-e6dbed3caffa.png)
 - $Run : This Command Is Used To Run The Python Code It can Be Run With or Without Input
-1) Without $Input 
+1) Without $Input
 ```bash
 $Run Write_Code
 ```
 ![Screenshot (422)](https://user-images.githubusercontent.com/80933048/129590714-15078a77-ad2a-4c62-b19c-78575c316c9c.png)<br>
+
 2) With $Input
 ```bash
 $Run Write_Code $Input Write_Input
