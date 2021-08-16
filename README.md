@@ -20,6 +20,16 @@
 - Easy To Track The Current And Upcoming Events On CodeChef And CodeForces
 - Easy To See The Total Problems On CodeChef.
 - Virtual Compiler Of Python And C++.
+## How To Invite 
+1) Paste The Link In The Browser Link:https://discord.com/api/oauth2/authorize?client_id=870861541862408252&permissions=0&scope=bot
+2) Select The Server From The Drope Down Link On Which You Wanted To Invite The Bot
+
+![Screenshot (430)](https://user-images.githubusercontent.com/80933048/129594982-711df30d-4503-4644-b290-20b8d5d92bb1.png)<br>
+
+3) Click On Authorize Button
+![Screenshot (432)](https://user-images.githubusercontent.com/80933048/129595176-cd107395-1936-4046-b83d-a477d5d2df1e.png)
+
+
 ## How To Use
 - $csupcoming : This Command Is Used To Know The Upcoming Events With The Starting And End Date Of CodeChef
 ```bash
