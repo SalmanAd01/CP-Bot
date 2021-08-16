@@ -31,6 +31,12 @@ $csupcoming
 $cspresent
 ```
 ![Screenshot (409)](https://user-images.githubusercontent.com/80933048/129572953-5fc23c29-a059-4577-a1b7-526f96eebd1c.png)
+- $csuser : This Command Is Used To Know The Basic Information of a user. It takes the username as a parameters
+```bash
+$csuser user_name
+```
+![Screenshot (411)](https://user-images.githubusercontent.com/80933048/129573492-754c266a-7b08-45ee-a927-46d8f96cb159.png)
+
 
 
 
