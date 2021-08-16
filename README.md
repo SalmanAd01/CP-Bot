@@ -12,3 +12,5 @@
 [![UptimeRobot](https://img.shields.io/badge/UptimeRobot-Monitoring-blue)](https://uptimerobot.com/)
 
 [![CodeChefApi](https://img.shields.io/badge/CodeChef-API-blue)](https://developers.codechef.com/)
+
+[![CodeForcesApi](https://img.shields.io/badge/CodeForces-API-blue)](https://codeforces.com/apiHelp)
