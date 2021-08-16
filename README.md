@@ -27,6 +27,7 @@
 ![Screenshot (430)](https://user-images.githubusercontent.com/80933048/129594982-711df30d-4503-4644-b290-20b8d5d92bb1.png)<br>
 
 3) Click On Authorize Button
+
 ![Screenshot (432)](https://user-images.githubusercontent.com/80933048/129595176-cd107395-1936-4046-b83d-a477d5d2df1e.png)
 
 
@@ -93,7 +94,14 @@ $C+Run Write_Code $Input Write_Input
 ## How To Get The Api's
 1) CodeForces
 - To Get The Api Of CodeForces Is Simple You Just Need To Login With Your Account Then Click of API Button You Will Find Your Api Token here : https://codeforces.com/settings/api
-![Screenshot (435)](https://user-images.githubusercontent.com/80933048/129596054-52b99975-07fd-44b7-9dbb-4a7c83d71516.png)
+- Click On Add Api Key
+![Screenshot (435)](https://user-images.githubusercontent.com/80933048/129596054-52b99975-07fd-44b7-9dbb-4a7c83d71516.png)<br>
+
+2) CodeChef
+- To Get The Api of CodeChef You Need To Mail Them At api@codechef.com and Convey for what purpose you need there api
+- Then They Will Send One Form You Need To Fill That Form And Wait. Then You Will Get Mail From There Site And Now You Will Be Able To Get The API Token 
+- Documentation https://developers.codechef.com/#grant-types
+
 
 
 
