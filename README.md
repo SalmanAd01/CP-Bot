@@ -68,6 +68,18 @@ $Run Write_Code
 $Run Write_Code $Input Write_Input
 ```
 ![Screenshot (424)](https://user-images.githubusercontent.com/80933048/129590956-54339dcd-ac16-471d-b8e9-5f1e81f942e9.png)
+- $C+Run : This Command Is Used To Run The C++ Code It can Be Run With or Without Input
+1) Without $Input
+```bash
+$C+Run Write_Code
+```
+![Screenshot (426)](https://user-images.githubusercontent.com/80933048/129593403-6ddb612a-9648-4a48-ba93-898dcf5f52bd.png)
+2) With $Input
+```bash
+$C+Run Write_Code $Input Write_Input
+```
+![Screenshot (428)](https://user-images.githubusercontent.com/80933048/129593684-3aff3eec-5716-4c7d-9e8e-95a07491e6b7.png)
+
 
 
 
