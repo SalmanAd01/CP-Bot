@@ -90,6 +90,10 @@ $C+Run Write_Code
 $C+Run Write_Code $Input Write_Input
 ```
 ![Screenshot (428)](https://user-images.githubusercontent.com/80933048/129593684-3aff3eec-5716-4c7d-9e8e-95a07491e6b7.png)
+## How To Get The Api's
+1) CodeForces
+- To Get The Api Of CodeForces Is Simple You Just Need To Login With Your Account Then Click of API Button You Will Find Your Api Token here : https://codeforces.com/settings/api
+![Screenshot (435)](https://user-images.githubusercontent.com/80933048/129596054-52b99975-07fd-44b7-9dbb-4a7c83d71516.png)
 
 
 
