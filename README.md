@@ -61,7 +61,7 @@ $cfupcoming
 ```bash
 $Run Write_Code
 ```
-![Screenshot (422)](https://user-images.githubusercontent.com/80933048/129590714-15078a77-ad2a-4c62-b19c-78575c316c9c.png)
+![Screenshot (422)](https://user-images.githubusercontent.com/80933048/129590714-15078a77-ad2a-4c62-b19c-78575c316c9c.png)<br>
 2) With $Input
 ```bash
 $Run Write_Code $Input Write_Input
