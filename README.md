@@ -73,7 +73,8 @@ $Run Write_Code $Input Write_Input
 ```bash
 $C+Run Write_Code
 ```
-![Screenshot (426)](https://user-images.githubusercontent.com/80933048/129593403-6ddb612a-9648-4a48-ba93-898dcf5f52bd.png)
+![Screenshot (426)](https://user-images.githubusercontent.com/80933048/129593403-6ddb612a-9648-4a48-ba93-898dcf5f52bd.png)<br>
+
 2) With $Input
 ```bash
 $C+Run Write_Code $Input Write_Input
