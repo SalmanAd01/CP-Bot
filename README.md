@@ -91,6 +91,8 @@ $C+Run Write_Code
 $C+Run Write_Code $Input Write_Input
 ```
 ![Screenshot (428)](https://user-images.githubusercontent.com/80933048/129593684-3aff3eec-5716-4c7d-9e8e-95a07491e6b7.png)
+
+- Note: Since It's A Discord Bot And Discord Will Not Allow To Send The Message That Having More Than 2000 Charecters.
 ## How To Get The Api's
 1) CodeForces
 - To Get The Api Of CodeForces Is Simple You Just Need To Login With Your Account Then Click of API Button You Will Find Your Api Token here : https://codeforces.com/settings/api
