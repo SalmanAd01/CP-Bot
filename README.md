@@ -36,6 +36,11 @@ $cspresent
 $csuser user_name
 ```
 ![Screenshot (411)](https://user-images.githubusercontent.com/80933048/129573492-754c266a-7b08-45ee-a927-46d8f96cb159.png)
+- $cscountproblem : This Command Is Used To Get The Total Problem in CodeChef with respective of there complexity.
+```bash
+$cscountproblem
+```
+![Screenshot (414)](https://user-images.githubusercontent.com/80933048/129574442-36ce2c7a-cf86-42fb-ad6f-3d02024264dc.png)
 
 
 
