@@ -103,7 +103,10 @@ $C+Run Write_Code $Input Write_Input
 - To Get The Api of CodeChef You Need To Mail Them At api@codechef.com and Convey for what purpose you need there api
 - Then They Will Send One Form You Need To Fill That Form And Wait. Then You Will Get Mail From There Site And Now You Will Be Able To Get The API Token 
 - Documentation https://developers.codechef.com/#grant-types
-
+## Contributor
+<a href="https://github.com/kunal097">
+  <img src="https://avatars.githubusercontent.com/u/23140769?v=4&s=50">
+</a>
 
 
 
