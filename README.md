@@ -22,7 +22,7 @@
 - Virtual Compiler Of Python And C++.
 ## How To Invite 
 1) Paste The Link In The Browser Link:https://discord.com/api/oauth2/authorize?client_id=870861541862408252&permissions=0&scope=bot
-2) Select The Server From The Drope Down Link On Which You Wanted To Invite The Bot
+2) Select The Server From The Drope Down List On Which You Wanted To Invite The Bot
 
 ![Screenshot (430)](https://user-images.githubusercontent.com/80933048/129594982-711df30d-4503-4644-b290-20b8d5d92bb1.png)<br>
 
@@ -101,7 +101,7 @@ $C+Run Write_Code $Input Write_Input
 
 2) CodeChef
 - To Get The Api of CodeChef You Need To Mail Them At api@codechef.com and Convey for what purpose you need there api
-- Then They Will Send One Form You Need To Fill That Form And Wait. Then You Will Get Mail From There Site And Now You Will Be Able To Get The API Token 
+- Then They Will Send One Form You Need To Fill That Form And Wait. Then You Will Get Mail From There Side And Now You Will Be Able To Get The API Token 
 - Documentation https://developers.codechef.com/#grant-types
 ## Contributor
 <a href="https://github.com/kunal097">
