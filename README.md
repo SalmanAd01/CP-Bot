@@ -72,25 +72,27 @@ $cfupcoming
 ```bash
 $run Write_Code
 ```
-![Screenshot (422)](https://user-images.githubusercontent.com/80933048/129590714-15078a77-ad2a-4c62-b19c-78575c316c9c.png)<br>
+![Screenshot (437)](https://user-images.githubusercontent.com/80933048/130427762-c971c5ce-b88e-48d1-91c1-1a9892590139.png)<br>
 
 2) With $input
 ```bash
 $run Write_Code $input Write_Input
 ```
-![Screenshot (424)](https://user-images.githubusercontent.com/80933048/129590956-54339dcd-ac16-471d-b8e9-5f1e81f942e9.png)
+![Screenshot (438)](https://user-images.githubusercontent.com/80933048/130427717-e9f7f273-882e-451d-a030-c29742b7861b.png)
+
 - $C+Run : This Command Is Used To Run The C++ Code It can Be Run With or Without Input
 1) Without $input
 ```bash
 $c+run Write_Code
 ```
-![Screenshot (426)](https://user-images.githubusercontent.com/80933048/129593403-6ddb612a-9648-4a48-ba93-898dcf5f52bd.png)<br>
+![Screenshot (439)](https://user-images.githubusercontent.com/80933048/130427675-c0e8b871-54df-40d2-8332-c93fe9a1e3d4.png)<br>
 
 2) With $input
 ```bash
 $c+run Write_Code $input Write_Input
 ```
-![Screenshot (428)](https://user-images.githubusercontent.com/80933048/129593684-3aff3eec-5716-4c7d-9e8e-95a07491e6b7.png)
+![Screenshot (440)](https://user-images.githubusercontent.com/80933048/130427611-6a3f61e6-e645-4640-8803-8ab2657bb8d2.png)
+
 
 - Note: Since It's A Discord Bot And Discord Will Not Allow To Send The Message That Having More Than 2000 Charecters.So Take That In consideration while using $Input
 ## How To Get The Api's
