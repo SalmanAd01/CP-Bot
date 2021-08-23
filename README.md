@@ -68,27 +68,27 @@ $cfupcoming
 ```
 ![Screenshot (420)](https://user-images.githubusercontent.com/80933048/129590252-ea62f1db-4e2a-4ecc-b1b3-e6dbed3caffa.png)
 - $Run : This Command Is Used To Run The Python Code It can Be Run With or Without Input
-1) Without $Input
+1) Without $input
 ```bash
-$Run Write_Code
+$run Write_Code
 ```
 ![Screenshot (422)](https://user-images.githubusercontent.com/80933048/129590714-15078a77-ad2a-4c62-b19c-78575c316c9c.png)<br>
 
-2) With $Input
+2) With $input
 ```bash
-$Run Write_Code $Input Write_Input
+$run Write_Code $input Write_Input
 ```
 ![Screenshot (424)](https://user-images.githubusercontent.com/80933048/129590956-54339dcd-ac16-471d-b8e9-5f1e81f942e9.png)
 - $C+Run : This Command Is Used To Run The C++ Code It can Be Run With or Without Input
-1) Without $Input
+1) Without $input
 ```bash
-$C+Run Write_Code
+$c+run Write_Code
 ```
 ![Screenshot (426)](https://user-images.githubusercontent.com/80933048/129593403-6ddb612a-9648-4a48-ba93-898dcf5f52bd.png)<br>
 
-2) With $Input
+2) With $input
 ```bash
-$C+Run Write_Code $Input Write_Input
+$c+run Write_Code $input Write_Input
 ```
 ![Screenshot (428)](https://user-images.githubusercontent.com/80933048/129593684-3aff3eec-5716-4c7d-9e8e-95a07491e6b7.png)
 
