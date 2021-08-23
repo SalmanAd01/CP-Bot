@@ -36,12 +36,13 @@
 ```bash
 $csupcoming
 ```
-![Screenshot (407)](https://user-images.githubusercontent.com/80933048/129571977-8d73b4ce-aea5-4bc1-9f11-796c9113db68.png)
+
+![Screenshot (446)](https://user-images.githubusercontent.com/80933048/130434301-715d7abf-f318-4156-a828-edfeec2cf10a.png)
 - $cspresent : This Command Is Used To Know The Present Events With The Starting And End Date Of CodeChef
 ```bash
 $cspresent
 ```
-![Screenshot (409)](https://user-images.githubusercontent.com/80933048/129572953-5fc23c29-a059-4577-a1b7-526f96eebd1c.png)
+![Screenshot (445)](https://user-images.githubusercontent.com/80933048/130434351-9bb09220-91e8-45e4-9b76-7df4d07ec55c.png)
 - $csuser : This Command Is Used To Know The Basic Information of a user In Codechef. It takes the username as a parameters
 ```bash
 $csuser user_name
@@ -66,7 +67,7 @@ $cfuser user_name
 ```bash
 $cfupcoming
 ```
-![Screenshot (420)](https://user-images.githubusercontent.com/80933048/129590252-ea62f1db-4e2a-4ecc-b1b3-e6dbed3caffa.png)
+![Screenshot (444)](https://user-images.githubusercontent.com/80933048/130434388-b8aa83c9-ae4c-406d-b48e-63f4efcb7b53.png)
 - $run : This Command Is Used To Run The Python Code It can Be Run With or Without Input
 1) Without $input
 ```bash
