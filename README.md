@@ -52,7 +52,7 @@ $csuser user_name
 $cscountproblem
 ```
 ![Screenshot (414)](https://user-images.githubusercontent.com/80933048/129574442-36ce2c7a-cf86-42fb-ad6f-3d02024264dc.png)
-- $$csproblem : This Command Is Used To Get The Overall Submission status Solve By The User.It takes the user_name as a parameters.
+- $csproblem : This Command Is Used To Get The Overall Submission status Solve By The User.It takes the user_name as a parameters.
 ```bash
 $csproblem user_name
 ```
@@ -67,7 +67,7 @@ $cfuser user_name
 $cfupcoming
 ```
 ![Screenshot (420)](https://user-images.githubusercontent.com/80933048/129590252-ea62f1db-4e2a-4ecc-b1b3-e6dbed3caffa.png)
-- $Run : This Command Is Used To Run The Python Code It can Be Run With or Without Input
+- $run : This Command Is Used To Run The Python Code It can Be Run With or Without Input
 1) Without $input
 ```bash
 $run Write_Code
@@ -80,7 +80,7 @@ $run Write_Code $input Write_Input
 ```
 ![Screenshot (437)](https://user-images.githubusercontent.com/80933048/130427762-c971c5ce-b88e-48d1-91c1-1a9892590139.png)
 
-- $C+Run : This Command Is Used To Run The C++ Code It can Be Run With or Without Input
+- $c+run : This Command Is Used To Run The C++ Code It can Be Run With or Without Input
 1) Without $input
 ```bash
 $c+run Write_Code
