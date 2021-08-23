@@ -59,7 +59,7 @@ $$csproblem user_name
 ![Screenshot (416)](https://user-images.githubusercontent.com/80933048/129589635-6f6c7b86-cb0b-42a9-95d2-9609acd22dba.png)
 - $cfuser : This Command Is Used To Know The Basic Information of a user In CodeForces. It takes the username as a parameters
 ```bash
-$cfuserr user_name
+$cfuser user_name
 ```
 ![Screenshot (418)](https://user-images.githubusercontent.com/80933048/129589970-2ffd1524-d7ec-40fb-9ee7-28f3d12d36e2.png)
 - $cfupcoming : This Command Is Used To Know The Upcoming Events With The Starting And End Date Of CodeForces.
