@@ -54,7 +54,7 @@ $cscountproblem
 ![Screenshot (414)](https://user-images.githubusercontent.com/80933048/129574442-36ce2c7a-cf86-42fb-ad6f-3d02024264dc.png)
 - $$csproblem : This Command Is Used To Get The Overall Submission status Solve By The User.It takes the user_name as a parameters.
 ```bash
-$$csproblem user_name
+$csproblem user_name
 ```
 ![Screenshot (416)](https://user-images.githubusercontent.com/80933048/129589635-6f6c7b86-cb0b-42a9-95d2-9609acd22dba.png)
 - $cfuser : This Command Is Used To Know The Basic Information of a user In CodeForces. It takes the username as a parameters
