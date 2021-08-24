@@ -151,7 +151,6 @@ return 0;
 2) With $input
 ~~~
 $run
-$run
 ```c++
 #include<iostream> 
 using namespace std; 
