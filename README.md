@@ -125,6 +125,22 @@ $input
 
 ![Screenshot (450)](https://user-images.githubusercontent.com/80933048/130609755-cf0ab4a4-133c-45ab-9749-9f272c24a2c1.png)
 
+- For Node.js
+1) Without $input
+~~~
+$run
+```js
+var myData = []; 
+myData.push(1);
+console.log(myData);
+myData.unshift(2); 
+console.log(myData);
+console.log(myData[0]); 
+```
+~~~
+![Screenshot (454)](https://user-images.githubusercontent.com/80933048/130614404-1687faea-dcd2-4636-a4c4-54437cea6c5b.png)
+
+
 - Note: Since It's A Discord Bot And Discord Will Not Allow To Send The Message That Having More Than 2000 Charecters.So Take That In consideration while using $Input
 ## How To Get The Api's
 1) CodeForces
