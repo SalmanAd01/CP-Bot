@@ -68,7 +68,7 @@ $cfuser user_name
 $cfupcoming
 ```
 ![Screenshot (444)](https://user-images.githubusercontent.com/80933048/130434388-b8aa83c9-ae4c-406d-b48e-63f4efcb7b53.png)
-- $run : This Command Is Used To Run The Python Node.js and C++ Code It can Be Run With or Without Input.
+- $run : This Command Is Used To Run The Python and C++ Code It can Be Run With or Without Input.
 1) Without $input
 ~~~
 $run
@@ -87,7 +87,7 @@ $input
 Write_Input
 ```
 ~~~
-- Note: For Python Extension_name is py For Node.js It's js And For C++ It's c++ 
+- Note: For Python Extension_name is py And For C++ It's c++ 
 ## Demonstration Of $run command
 - For Python
 1) Without $input
@@ -125,20 +125,51 @@ $input
 
 ![Screenshot (450)](https://user-images.githubusercontent.com/80933048/130609755-cf0ab4a4-133c-45ab-9749-9f272c24a2c1.png)
 
-- For Node.js
+- For C++
 1) Without $input
 ~~~
 $run
-```js
-var myData = []; 
-myData.push(1);
-console.log(myData);
-myData.unshift(2); 
-console.log(myData);
-console.log(myData[0]); 
+```c++
+#include <iostream>
+using namespace std;
+int main()
+{
+for (int i=0;i<5;i++)
+{
+cout<<"Hello World\n";
+}
+return 0;
+}
 ```
 ~~~
-![Screenshot (454)](https://user-images.githubusercontent.com/80933048/130614404-1687faea-dcd2-4636-a4c4-54437cea6c5b.png)
+
+![Screenshot (462)](https://user-images.githubusercontent.com/80933048/130619931-a3084e30-d791-4820-99c1-0990e087bf2b.png)
+
+
+2) With $input
+~~~
+$run
+$run
+```c++
+#include<iostream> 
+using namespace std; 
+int main()
+{
+int a;
+cin>>a;
+for(int I=0;I<a;I++)
+{
+cout<<"Hey\n"; 
+} 
+return 0;
+} ```
+$input
+```
+10
+```
+~~~
+
+![Screenshot (460)](https://user-images.githubusercontent.com/80933048/130619732-cdfde733-918e-4125-9fd1-32e682bc6fbd.png)
 
 
 - Note: Since It's A Discord Bot And Discord Will Not Allow To Send The Message That Having More Than 2000 Charecters.So Take That In consideration while using $Input
