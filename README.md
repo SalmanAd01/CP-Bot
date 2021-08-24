@@ -105,7 +105,8 @@ print (y)
 ```
 ~~~
 
-![Screenshot (452)](https://user-images.githubusercontent.com/80933048/130610916-40daf4c5-48f1-42c3-9cc3-b1e1405e30a3.png)
+![Screenshot (466)](https://user-images.githubusercontent.com/80933048/130620487-7678b127-6af8-40b9-b78b-8766a65c5644.png)
+
 
 2) With $input
 ~~~
@@ -123,7 +124,8 @@ $input
 ```
 ~~~
 
-![Screenshot (450)](https://user-images.githubusercontent.com/80933048/130609755-cf0ab4a4-133c-45ab-9749-9f272c24a2c1.png)
+![Screenshot (465)](https://user-images.githubusercontent.com/80933048/130620401-8edefc61-8105-4015-906d-67c4e3dba780.png)
+
 
 - For C++
 1) Without $input
