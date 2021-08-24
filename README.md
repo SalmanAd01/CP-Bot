@@ -124,20 +124,6 @@ $input
 
 ![Screenshot (450)](https://user-images.githubusercontent.com/80933048/130609755-cf0ab4a4-133c-45ab-9749-9f272c24a2c1.png)
 
-- $c+run : This Command Is Used To Run The C++ Code It can Be Run With or Without Input
-1) Without $input
-```bash
-$c+run Write_Code
-```
-![Screenshot (439)](https://user-images.githubusercontent.com/80933048/130427675-c0e8b871-54df-40d2-8332-c93fe9a1e3d4.png)<br>
-
-2) With $input
-```bash
-$c+run Write_Code $input Write_Input
-```
-![Screenshot (440)](https://user-images.githubusercontent.com/80933048/130427611-6a3f61e6-e645-4640-8803-8ab2657bb8d2.png)
-
-
 - Note: Since It's A Discord Bot And Discord Will Not Allow To Send The Message That Having More Than 2000 Charecters.So Take That In consideration while using $Input
 ## How To Get The Api's
 1) CodeForces
