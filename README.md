@@ -106,6 +106,7 @@ print (y)
 ~~~
 
 ![Screenshot (452)](https://user-images.githubusercontent.com/80933048/130610916-40daf4c5-48f1-42c3-9cc3-b1e1405e30a3.png)
+
 2) With $input
 ~~~
 $run
