@@ -76,10 +76,21 @@ $run Write_Code
 ![Screenshot (438)](https://user-images.githubusercontent.com/80933048/130427717-e9f7f273-882e-451d-a030-c29742b7861b.png)<br>
 
 2) With $input
-```bash
-$run Write_Code $input Write_Input
+~~~
+$run
+```py
+a = input()
+b = input()
+x = float(a) + float(b)
+print(x)
 ```
-![Screenshot (437)](https://user-images.githubusercontent.com/80933048/130427762-c971c5ce-b88e-48d1-91c1-1a9892590139.png)
+$input
+```
+3
+5
+```
+~~~
+![Screenshot (450)](https://user-images.githubusercontent.com/80933048/130609755-cf0ab4a4-133c-45ab-9749-9f272c24a2c1.png)
 
 - $c+run : This Command Is Used To Run The C++ Code It can Be Run With or Without Input
 1) Without $input
@@ -110,6 +121,7 @@ $c+run Write_Code $input Write_Input
 <a href="https://github.com/kunal097">
   <img src="https://avatars.githubusercontent.com/u/23140769?v=4&s=50">
 </a>
+
 
 
 
