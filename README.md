@@ -68,13 +68,44 @@ $cfuser user_name
 $cfupcoming
 ```
 ![Screenshot (444)](https://user-images.githubusercontent.com/80933048/130434388-b8aa83c9-ae4c-406d-b48e-63f4efcb7b53.png)
-- $run : This Command Is Used To Run The Python Code It can Be Run With or Without Input
+- $run : This Command Is Used To Run The Python Node.js and C++ Code It can Be Run With or Without Input.
 1) Without $input
-```bash
-$run Write_Code
+~~~
+$run
+```Extension_name
+Write_Code
 ```
-![Screenshot (438)](https://user-images.githubusercontent.com/80933048/130427717-e9f7f273-882e-451d-a030-c29742b7861b.png)<br>
+~~~
+2) With $input
+~~~
+$run
+```Extension_name
+Write_Code
+```
+$input
+```
+Write_Input
+```
+~~~
+- Note: For Python Extension_name is py For Node.js It's js And For C++ It's c++ 
+## Demonstration Of $run command
+- For Python
+1) Without $input
+~~~
+$run
+```py
+import json
+x={
+"name":"Jhon",
+"age":30,
+"city":"New York"
+}
+y=json.dumps(x)
+print (y) 
+```
+~~~
 
+![Screenshot (452)](https://user-images.githubusercontent.com/80933048/130610916-40daf4c5-48f1-42c3-9cc3-b1e1405e30a3.png)
 2) With $input
 ~~~
 $run
@@ -90,6 +121,7 @@ $input
 5
 ```
 ~~~
+
 ![Screenshot (450)](https://user-images.githubusercontent.com/80933048/130609755-cf0ab4a4-133c-45ab-9749-9f272c24a2c1.png)
 
 - $c+run : This Command Is Used To Run The C++ Code It can Be Run With or Without Input
